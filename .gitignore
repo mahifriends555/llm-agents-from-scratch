@@ -216,3 +216,8 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+1_code.txt
+2_project_structure.txt
+code_Save.py
+sandbox.ipynb
